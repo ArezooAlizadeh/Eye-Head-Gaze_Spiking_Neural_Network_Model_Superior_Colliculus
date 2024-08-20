@@ -1,4 +1,4 @@
-# Eye-Head-Gaze_Spiking_Neural_Network_Model_Superior_Colliculus
+# Eye Head Gaze shifts by a Spiking Neural Network Model of the Superior Colliculus
 
 SC gaze motor-map model as a one-dimensional two-layer spiking neural network with a cortical input layer, and a layer of SC output neurons. Each layer consists of 200 neurons, uniformly distributed on 0-5 mm, which corresponds to the SC gaze-motor map midline.
 
