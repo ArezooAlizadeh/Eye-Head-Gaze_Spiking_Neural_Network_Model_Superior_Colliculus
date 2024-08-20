@@ -1,6 +1,6 @@
+SC gaze motor-map model as a one-dimensional two-layer spiking neural network with a cortical input layer, and a layer of SC output neurons. Each layer consists of 200 neurons, uniformly distributed on 0-5 mm, which corresponds to the SC gaze-motor map midline.
 
-
-
+The output of the spiking neural network of the SC motor map drives the eye-head motor control circuitry by linear cumulative summation of individual spike effects of each recruited SC neuron. 
 
 The model was published in 
 * Alizadeh A, Van Opstal AJ. Dynamic control of eye-head gaze shifts by a spiking neural network model of the superior colliculus. Front Comput Neurosci. 2022 Nov 17;16:1040646. doi: 10.3389/fncom.2022.1040646. PMID: 36465967; PMCID: PMC9714624.
