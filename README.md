@@ -1,4 +1,9 @@
-Alizadeh A, Van Opstal AJ. Dynamic control of eye-head gaze shifts by a spiking neural network model of the superior colliculus. Front Comput Neurosci. 2022 Nov 17;16:1040646. doi: 10.3389/fncom.2022.1040646. PMID: 36465967; PMCID: PMC9714624.
+
+
+
+
+The model was published in 
+* Alizadeh A, Van Opstal AJ. Dynamic control of eye-head gaze shifts by a spiking neural network model of the superior colliculus. Front Comput Neurosci. 2022 Nov 17;16:1040646. doi: 10.3389/fncom.2022.1040646. PMID: 36465967; PMCID: PMC9714624.
 
 ### This repo records:
 1. SNN_SC which is a python code for constructing a two-layer spiking neural network model of superior colliculus with a cortical input. Superior colliculus encodes the instantaneous trajectory of a desired straight gaze path 
