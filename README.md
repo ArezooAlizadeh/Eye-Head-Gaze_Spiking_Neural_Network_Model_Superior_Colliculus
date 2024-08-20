@@ -1,4 +1,4 @@
-# Eye-Head-Gaze_Spiking_Neural_Network_Model_SuperiorColliculus
+# Eye-Head-Gaze_Spiking_Neural_Network_Model_Superior_Colliculus
 Alizadeh A, Van Opstal AJ. Dynamic control of eye-head gaze shifts by a spiking neural network model of the superior colliculus. Front Comput Neurosci. 2022 Nov 17;16:1040646. doi: 10.3389/fncom.2022.1040646. PMID: 36465967; PMCID: PMC9714624.
 
 ### This repo records:
